@@ -44,7 +44,8 @@
 
 ---
 
- <img align="left" alt="Sudhish's GitHub stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Tsudhishnair&show_icons=true&hide_border=true" />
+ 
+<!-- <img align="left" alt="Sudhish's Github Stats" src="https://github-readme-stats.Tsudhishnair.vercel.app/api?username=Tsudhishnair&show_icons=true&hide_border=true" /> -->
 
 [companywebsite]: https://impress.ai
 [website]: https://github.com/Tsudhishnair
