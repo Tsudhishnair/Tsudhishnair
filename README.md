@@ -12,7 +12,7 @@
 [<img align="left" alt="sudhish's Github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="tsudhishnair | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="tsudhishnair | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="tsudhishnair | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.js" />][medium]
+[<img align="left" alt="tsudhishnair | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
 [<img align="left" alt="tsudhishnair | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/dribbble.svg" />][dribbble]
 <br />
 
