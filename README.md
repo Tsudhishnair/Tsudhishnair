@@ -33,6 +33,13 @@
 <br />
 <br />
 
+---
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
 
 [companywebsite]: https://impress.ai
 [website]: https://github.com/Tsudhishnair
