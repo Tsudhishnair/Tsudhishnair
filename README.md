@@ -38,7 +38,7 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript 101](https://medium.com/@tsudhishnair/javascript-101-1b27a780f45d?source=rss-4a3ca2d0484f------2)
-- [Road trip to Valparai ](https://medium.com/@tsudhishnair/road-trip-to-valparai-2fd04835353d?source=rss-4a3ca2d0484f------2)
+- [Road trip to Valparai](https://medium.com/@tsudhishnair/road-trip-to-valparai-2fd04835353d?source=rss-4a3ca2d0484f------2)
 - [My journey to Google sponsored Udacity' Nanodergree Program.](https://medium.com/@tsudhishnair/my-journey-to-google-sponsored-udacity-nanodergree-program-5f6dd2b1a219?source=rss-4a3ca2d0484f------2)
 <!-- BLOG-POST-LIST:END -->
 
