@@ -49,7 +49,7 @@
 
 [companywebsite]: https://impress.ai
 [website]: https://github.com/Tsudhishnair
-[instagram]: https://www.instagram.com/creative____stock/
+[instagram]: https://www.instagram.com/creative_stock_001/
 [linkedin]: https://www.linkedin.com/in/tsudhishnair/
 [medium]: https://medium.com/@tsudhishnair
 [dribbble]: https://dribbble.com/tsudhishnair
