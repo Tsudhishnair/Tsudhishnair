@@ -45,10 +45,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   7 hrs 3 mins    ████████████████████░░░░░   79.73 % 
-JSX          1 hr 36 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Python       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-SCSS         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+JavaScript   6 hrs 45 mins   ███████████████████░░░░░░   75.77 % 
+JSX          2 hrs 9 mins    ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
 ```
 <!--END_SECTION:waka-->
 
