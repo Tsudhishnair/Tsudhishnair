@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a React Developer at [impress.ai][companywebsite]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to draw and play piano
 
 ### Connect with me:
