@@ -1,7 +1,7 @@
 ### Hi there, I'm T SUDHISH NAIR <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Front End Web Developer, an Engineer and an aspiring designer as well!
-- 🔭 I’m currently working as a React Developer at [impress.ai][companywebsite]!
+- 🔭 I’m currently working as a React Developer at [BigBinary][companywebsite]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute to Open Source projects
@@ -59,7 +59,7 @@ SCSS         38 mins         █░░░░░░░░░░░░░░░░
  
 <!-- <img align="left" alt="Sudhish's Github Stats" src="https://github-readme-stats.Tsudhishnair.vercel.app/api?username=Tsudhishnair&show_icons=true&hide_border=true" /> -->
 
-[companywebsite]: https://impress.ai
+[companywebsite]: https://bigbinary.com/
 [website]: https://github.com/Tsudhishnair
 [instagram]: https://www.instagram.com/creative_stock_001/
 [linkedin]: https://www.linkedin.com/in/tsudhishnair/
