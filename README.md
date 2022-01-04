@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a Software Engineer at [BigBinary][companywebsite]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to draw and play piano
 
 ### Connect with me:
