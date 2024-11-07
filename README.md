@@ -1,10 +1,9 @@
 ### Hi there, I'm T SUDHISH NAIR <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Front End Web Developer, an Engineer and an aspiring designer as well!
-- 🔭 I’m currently working as a Software Engineer at [BigBinary][companywebsite]!
+- 🔭 I’m currently working as a Software Engineer at [BigBinary][companywebsite] and as Product Designer at [Neeto](https://www.neeto.com/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to draw and play piano
 
 ### Connect with me:
